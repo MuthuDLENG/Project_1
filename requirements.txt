@@ -7,3 +7,4 @@ scikit-learn
 catboost
 xgboost
 category_encoders
+dill   #helps craete pickle file
